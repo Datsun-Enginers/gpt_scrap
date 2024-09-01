@@ -1,0 +1,6 @@
+selenium
+undetected-chromedriver
+setuptools
+SpeechRecognition
+pyttsx3
+pyaudio
